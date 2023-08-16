@@ -10,8 +10,8 @@ namespace Persistencia.Data.Configuration
         {
             builder.ToTable("pais");
 
-            builder.HasKey(e => e.IdCod);
-            builder.Property(e => e.IdCod)
+            builder.HasKey(e => e.IdPais);
+            builder.Property(e => e.IdPais)
             .HasMaxLength(3);
 
             builder.Property(p => p.NombrePais)

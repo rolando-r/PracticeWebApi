@@ -10,8 +10,8 @@ namespace Persistencia.Data.Configuration
         {
             builder.ToTable("ciudad");
 
-            builder.HasKey(e => e.IdCod);
-            builder.Property(e => e.IdCod)
+            builder.HasKey(e => e.IdCiudad);
+            builder.Property(e => e.IdCiudad)
             .HasMaxLength(3);
 
             builder.Property(p => p.NombreCiudad)
@@ -20,7 +20,7 @@ namespace Persistencia.Data.Configuration
 
             builder.HasOne(p => p.Departamento)
             .WithMany(p => p.Ciudades)
-            .HasForeignKey(p => p.IdDep);
+            .HasForeignKey(p => p.IdDepFk);
         }
     }
 }

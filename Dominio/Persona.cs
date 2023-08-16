@@ -1,13 +1,17 @@
+using System.ComponentModel.DataAnnotations;
+
 namespace Dominio;
-public class Persona : BaseEntityA
+public class Persona
 {
+    [Key]
+    public string ? IdPersona { get; set; }
     public string ? NombrePersona { get; set; }
     public string ? Apellido { get; set; }
-    public string ? IdGenero { get; set; }
+    public string ? IdGeneroFk { get; set; }
     public Genero ? Genero { get; set; }
-    public string ? IdCiudad { get; set; }
+    public string ? IdCiudadFk { get; set; }
     public Ciudad ? Ciudad { get; set; }
-    public string ? IdTipoPersona { get; set; }
+    public string ? IdTipoPerFk { get; set; }
     public TipoPersona ? TipoPersona { get; set; }
     public ICollection<Matricula> ? Matriculas { get; set; }
     public ICollection<TrainerSalon> ? TrainerSalones { get; set; }

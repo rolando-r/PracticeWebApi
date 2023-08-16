@@ -1,5 +1,8 @@
+using System.Reflection;
 using Dominio;
 using Microsoft.EntityFrameworkCore;
+using Persistencia.Data.Configuration;
+
 namespace Persistencia
 {
     public class PracticeWebApiContext : DbContext
@@ -8,6 +11,7 @@ namespace Persistencia
         {
         }
         public DbSet<Ciudad> ? Ciudades { get; set; }
+        public DbSet<Direccion> ? Direcciones { get; set; }
         public DbSet<Persona> ? Personas { get; set; }
         public DbSet<Salon> ? Salones { get; set; }
         public DbSet<Matricula> ? Matriculas { get; set; }

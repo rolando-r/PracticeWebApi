@@ -10,8 +10,8 @@ namespace Persistencia.Data.Configuration
         {
             builder.ToTable("matricula");
 
-            builder.HasKey(e => e.IdCod);
-            builder.Property(e => e.IdCod);
+            builder.HasKey(e => e.IdMatricula);
+            builder.Property(e => e.IdMatricula);
         }
     }
 }

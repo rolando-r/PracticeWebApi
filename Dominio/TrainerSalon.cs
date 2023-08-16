@@ -1,8 +1,11 @@
+using System.ComponentModel.DataAnnotations;
+
 namespace Dominio;
-public class TrainerSalon : BaseEntityA
+public class TrainerSalon
 {
-    public string ? IdPersona { get; set; }
+    [Key]
+    public string ? IdPerTrainerFk { get; set; }
     public Persona ? Persona { get; set; }
-    public string ? IdSalon { get; set; }
+    public string ? IdSalonFk { get; set; }
     public Salon ? Salon { get; set; }
 }

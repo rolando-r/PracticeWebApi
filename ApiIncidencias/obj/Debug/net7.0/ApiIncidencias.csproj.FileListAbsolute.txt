@@ -1,73 +1,146 @@
-C:\Users\roola\OneDrive\Escritorio\Programación\Pruebas Campus\PracticeWebApi\ApiIncidencias\bin\Debug\net7.0\appsettings.Development.json
-C:\Users\roola\OneDrive\Escritorio\Programación\Pruebas Campus\PracticeWebApi\ApiIncidencias\bin\Debug\net7.0\appsettings.json
-C:\Users\roola\OneDrive\Escritorio\Programación\Pruebas Campus\PracticeWebApi\ApiIncidencias\bin\Debug\net7.0\ApiIncidencias.exe
-C:\Users\roola\OneDrive\Escritorio\Programación\Pruebas Campus\PracticeWebApi\ApiIncidencias\bin\Debug\net7.0\ApiIncidencias.deps.json
-C:\Users\roola\OneDrive\Escritorio\Programación\Pruebas Campus\PracticeWebApi\ApiIncidencias\bin\Debug\net7.0\ApiIncidencias.runtimeconfig.json
-C:\Users\roola\OneDrive\Escritorio\Programación\Pruebas Campus\PracticeWebApi\ApiIncidencias\bin\Debug\net7.0\ApiIncidencias.dll
-C:\Users\roola\OneDrive\Escritorio\Programación\Pruebas Campus\PracticeWebApi\ApiIncidencias\bin\Debug\net7.0\ApiIncidencias.pdb
-C:\Users\roola\OneDrive\Escritorio\Programación\Pruebas Campus\PracticeWebApi\ApiIncidencias\bin\Debug\net7.0\FluentValidation.dll
-C:\Users\roola\OneDrive\Escritorio\Programación\Pruebas Campus\PracticeWebApi\ApiIncidencias\bin\Debug\net7.0\FluentValidation.AspNetCore.dll
-C:\Users\roola\OneDrive\Escritorio\Programación\Pruebas Campus\PracticeWebApi\ApiIncidencias\bin\Debug\net7.0\FluentValidation.DependencyInjectionExtensions.dll
-C:\Users\roola\OneDrive\Escritorio\Programación\Pruebas Campus\PracticeWebApi\ApiIncidencias\bin\Debug\net7.0\Humanizer.dll
-C:\Users\roola\OneDrive\Escritorio\Programación\Pruebas Campus\PracticeWebApi\ApiIncidencias\bin\Debug\net7.0\itext.barcodes.dll
-C:\Users\roola\OneDrive\Escritorio\Programación\Pruebas Campus\PracticeWebApi\ApiIncidencias\bin\Debug\net7.0\itext.bouncy-castle-connector.dll
-C:\Users\roola\OneDrive\Escritorio\Programación\Pruebas Campus\PracticeWebApi\ApiIncidencias\bin\Debug\net7.0\itext.forms.dll
-C:\Users\roola\OneDrive\Escritorio\Programación\Pruebas Campus\PracticeWebApi\ApiIncidencias\bin\Debug\net7.0\itext.io.dll
-C:\Users\roola\OneDrive\Escritorio\Programación\Pruebas Campus\PracticeWebApi\ApiIncidencias\bin\Debug\net7.0\itext.kernel.dll
-C:\Users\roola\OneDrive\Escritorio\Programación\Pruebas Campus\PracticeWebApi\ApiIncidencias\bin\Debug\net7.0\itext.layout.dll
-C:\Users\roola\OneDrive\Escritorio\Programación\Pruebas Campus\PracticeWebApi\ApiIncidencias\bin\Debug\net7.0\itext.pdfa.dll
-C:\Users\roola\OneDrive\Escritorio\Programación\Pruebas Campus\PracticeWebApi\ApiIncidencias\bin\Debug\net7.0\itext.sign.dll
-C:\Users\roola\OneDrive\Escritorio\Programación\Pruebas Campus\PracticeWebApi\ApiIncidencias\bin\Debug\net7.0\itext.styledxmlparser.dll
-C:\Users\roola\OneDrive\Escritorio\Programación\Pruebas Campus\PracticeWebApi\ApiIncidencias\bin\Debug\net7.0\itext.svg.dll
-C:\Users\roola\OneDrive\Escritorio\Programación\Pruebas Campus\PracticeWebApi\ApiIncidencias\bin\Debug\net7.0\itext.commons.dll
-C:\Users\roola\OneDrive\Escritorio\Programación\Pruebas Campus\PracticeWebApi\ApiIncidencias\bin\Debug\net7.0\itext.html2pdf.dll
-C:\Users\roola\OneDrive\Escritorio\Programación\Pruebas Campus\PracticeWebApi\ApiIncidencias\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
-C:\Users\roola\OneDrive\Escritorio\Programación\Pruebas Campus\PracticeWebApi\ApiIncidencias\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
-C:\Users\roola\OneDrive\Escritorio\Programación\Pruebas Campus\PracticeWebApi\ApiIncidencias\bin\Debug\net7.0\Microsoft.DotNet.PlatformAbstractions.dll
-C:\Users\roola\OneDrive\Escritorio\Programación\Pruebas Campus\PracticeWebApi\ApiIncidencias\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
-C:\Users\roola\OneDrive\Escritorio\Programación\Pruebas Campus\PracticeWebApi\ApiIncidencias\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
-C:\Users\roola\OneDrive\Escritorio\Programación\Pruebas Campus\PracticeWebApi\ApiIncidencias\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
-C:\Users\roola\OneDrive\Escritorio\Programación\Pruebas Campus\PracticeWebApi\ApiIncidencias\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
-C:\Users\roola\OneDrive\Escritorio\Programación\Pruebas Campus\PracticeWebApi\ApiIncidencias\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
-C:\Users\roola\OneDrive\Escritorio\Programación\Pruebas Campus\PracticeWebApi\ApiIncidencias\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
-C:\Users\roola\OneDrive\Escritorio\Programación\Pruebas Campus\PracticeWebApi\ApiIncidencias\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
-C:\Users\roola\OneDrive\Escritorio\Programación\Pruebas Campus\PracticeWebApi\ApiIncidencias\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
-C:\Users\roola\OneDrive\Escritorio\Programación\Pruebas Campus\PracticeWebApi\ApiIncidencias\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
-C:\Users\roola\OneDrive\Escritorio\Programación\Pruebas Campus\PracticeWebApi\ApiIncidencias\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
-C:\Users\roola\OneDrive\Escritorio\Programación\Pruebas Campus\PracticeWebApi\ApiIncidencias\bin\Debug\net7.0\Microsoft.OpenApi.dll
-C:\Users\roola\OneDrive\Escritorio\Programación\Pruebas Campus\PracticeWebApi\ApiIncidencias\bin\Debug\net7.0\Mono.TextTemplating.dll
-C:\Users\roola\OneDrive\Escritorio\Programación\Pruebas Campus\PracticeWebApi\ApiIncidencias\bin\Debug\net7.0\MySqlConnector.dll
-C:\Users\roola\OneDrive\Escritorio\Programación\Pruebas Campus\PracticeWebApi\ApiIncidencias\bin\Debug\net7.0\Newtonsoft.Json.dll
-C:\Users\roola\OneDrive\Escritorio\Programación\Pruebas Campus\PracticeWebApi\ApiIncidencias\bin\Debug\net7.0\Pomelo.EntityFrameworkCore.MySql.dll
-C:\Users\roola\OneDrive\Escritorio\Programación\Pruebas Campus\PracticeWebApi\ApiIncidencias\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
-C:\Users\roola\OneDrive\Escritorio\Programación\Pruebas Campus\PracticeWebApi\ApiIncidencias\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
-C:\Users\roola\OneDrive\Escritorio\Programación\Pruebas Campus\PracticeWebApi\ApiIncidencias\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-C:\Users\roola\OneDrive\Escritorio\Programación\Pruebas Campus\PracticeWebApi\ApiIncidencias\bin\Debug\net7.0\System.CodeDom.dll
-C:\Users\roola\OneDrive\Escritorio\Programación\Pruebas Campus\PracticeWebApi\ApiIncidencias\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
-C:\Users\roola\OneDrive\Escritorio\Programación\Pruebas Campus\PracticeWebApi\ApiIncidencias\bin\Debug\net7.0\Aplicacion.dll
-C:\Users\roola\OneDrive\Escritorio\Programación\Pruebas Campus\PracticeWebApi\ApiIncidencias\bin\Debug\net7.0\Dominio.dll
-C:\Users\roola\OneDrive\Escritorio\Programación\Pruebas Campus\PracticeWebApi\ApiIncidencias\bin\Debug\net7.0\Persistencia.dll
-C:\Users\roola\OneDrive\Escritorio\Programación\Pruebas Campus\PracticeWebApi\ApiIncidencias\bin\Debug\net7.0\Aplicacion.pdb
-C:\Users\roola\OneDrive\Escritorio\Programación\Pruebas Campus\PracticeWebApi\ApiIncidencias\bin\Debug\net7.0\Dominio.pdb
-C:\Users\roola\OneDrive\Escritorio\Programación\Pruebas Campus\PracticeWebApi\ApiIncidencias\bin\Debug\net7.0\Persistencia.pdb
-C:\Users\roola\OneDrive\Escritorio\Programación\Pruebas Campus\PracticeWebApi\ApiIncidencias\obj\Debug\net7.0\ApiIncidencias.csproj.AssemblyReference.cache
-C:\Users\roola\OneDrive\Escritorio\Programación\Pruebas Campus\PracticeWebApi\ApiIncidencias\obj\Debug\net7.0\ApiIncidencias.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\roola\OneDrive\Escritorio\Programación\Pruebas Campus\PracticeWebApi\ApiIncidencias\obj\Debug\net7.0\ApiIncidencias.AssemblyInfoInputs.cache
-C:\Users\roola\OneDrive\Escritorio\Programación\Pruebas Campus\PracticeWebApi\ApiIncidencias\obj\Debug\net7.0\ApiIncidencias.AssemblyInfo.cs
-C:\Users\roola\OneDrive\Escritorio\Programación\Pruebas Campus\PracticeWebApi\ApiIncidencias\obj\Debug\net7.0\ApiIncidencias.csproj.CoreCompileInputs.cache
-C:\Users\roola\OneDrive\Escritorio\Programación\Pruebas Campus\PracticeWebApi\ApiIncidencias\obj\Debug\net7.0\ApiIncidencias.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\roola\OneDrive\Escritorio\Programación\Pruebas Campus\PracticeWebApi\ApiIncidencias\obj\Debug\net7.0\ApiIncidencias.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\roola\OneDrive\Escritorio\Programación\Pruebas Campus\PracticeWebApi\ApiIncidencias\obj\Debug\net7.0\staticwebassets\msbuild.ApiIncidencias.Microsoft.AspNetCore.StaticWebAssets.props
-C:\Users\roola\OneDrive\Escritorio\Programación\Pruebas Campus\PracticeWebApi\ApiIncidencias\obj\Debug\net7.0\staticwebassets\msbuild.build.ApiIncidencias.props
-C:\Users\roola\OneDrive\Escritorio\Programación\Pruebas Campus\PracticeWebApi\ApiIncidencias\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.ApiIncidencias.props
-C:\Users\roola\OneDrive\Escritorio\Programación\Pruebas Campus\PracticeWebApi\ApiIncidencias\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.ApiIncidencias.props
-C:\Users\roola\OneDrive\Escritorio\Programación\Pruebas Campus\PracticeWebApi\ApiIncidencias\obj\Debug\net7.0\staticwebassets.pack.json
-C:\Users\roola\OneDrive\Escritorio\Programación\Pruebas Campus\PracticeWebApi\ApiIncidencias\obj\Debug\net7.0\staticwebassets.build.json
-C:\Users\roola\OneDrive\Escritorio\Programación\Pruebas Campus\PracticeWebApi\ApiIncidencias\obj\Debug\net7.0\staticwebassets.development.json
-C:\Users\roola\OneDrive\Escritorio\Programación\Pruebas Campus\PracticeWebApi\ApiIncidencias\obj\Debug\net7.0\scopedcss\bundle\ApiIncidencias.styles.css
-C:\Users\roola\OneDrive\Escritorio\Programación\Pruebas Campus\PracticeWebApi\ApiIncidencias\obj\Debug\net7.0\ApiIncidencias.csproj.CopyComplete
-C:\Users\roola\OneDrive\Escritorio\Programación\Pruebas Campus\PracticeWebApi\ApiIncidencias\obj\Debug\net7.0\ApiIncidencias.dll
-C:\Users\roola\OneDrive\Escritorio\Programación\Pruebas Campus\PracticeWebApi\ApiIncidencias\obj\Debug\net7.0\refint\ApiIncidencias.dll
-C:\Users\roola\OneDrive\Escritorio\Programación\Pruebas Campus\PracticeWebApi\ApiIncidencias\obj\Debug\net7.0\ApiIncidencias.pdb
-C:\Users\roola\OneDrive\Escritorio\Programación\Pruebas Campus\PracticeWebApi\ApiIncidencias\obj\Debug\net7.0\ApiIncidencias.genruntimeconfig.cache
-C:\Users\roola\OneDrive\Escritorio\Programación\Pruebas Campus\PracticeWebApi\ApiIncidencias\obj\Debug\net7.0\ref\ApiIncidencias.dll
+C:/Users/roola/OneDrive/Escritorio/Programación/Pruebas Campus/PracticeWebApi/ApiIncidencias/bin/Debug/net7.0/appsettings.Development.json
+C:/Users/roola/OneDrive/Escritorio/Programación/Pruebas Campus/PracticeWebApi/ApiIncidencias/bin/Debug/net7.0/appsettings.json
+C:/Users/roola/OneDrive/Escritorio/Programación/Pruebas Campus/PracticeWebApi/ApiIncidencias/bin/Debug/net7.0/ApiIncidencias.exe
+C:/Users/roola/OneDrive/Escritorio/Programación/Pruebas Campus/PracticeWebApi/ApiIncidencias/bin/Debug/net7.0/ApiIncidencias.deps.json
+C:/Users/roola/OneDrive/Escritorio/Programación/Pruebas Campus/PracticeWebApi/ApiIncidencias/bin/Debug/net7.0/ApiIncidencias.runtimeconfig.json
+C:/Users/roola/OneDrive/Escritorio/Programación/Pruebas Campus/PracticeWebApi/ApiIncidencias/bin/Debug/net7.0/ApiIncidencias.dll
+C:/Users/roola/OneDrive/Escritorio/Programación/Pruebas Campus/PracticeWebApi/ApiIncidencias/bin/Debug/net7.0/ApiIncidencias.pdb
+C:/Users/roola/OneDrive/Escritorio/Programación/Pruebas Campus/PracticeWebApi/ApiIncidencias/bin/Debug/net7.0/FluentValidation.dll
+C:/Users/roola/OneDrive/Escritorio/Programación/Pruebas Campus/PracticeWebApi/ApiIncidencias/bin/Debug/net7.0/FluentValidation.AspNetCore.dll
+C:/Users/roola/OneDrive/Escritorio/Programación/Pruebas Campus/PracticeWebApi/ApiIncidencias/bin/Debug/net7.0/FluentValidation.DependencyInjectionExtensions.dll
+C:/Users/roola/OneDrive/Escritorio/Programación/Pruebas Campus/PracticeWebApi/ApiIncidencias/bin/Debug/net7.0/Humanizer.dll
+C:/Users/roola/OneDrive/Escritorio/Programación/Pruebas Campus/PracticeWebApi/ApiIncidencias/bin/Debug/net7.0/itext.barcodes.dll
+C:/Users/roola/OneDrive/Escritorio/Programación/Pruebas Campus/PracticeWebApi/ApiIncidencias/bin/Debug/net7.0/itext.bouncy-castle-connector.dll
+C:/Users/roola/OneDrive/Escritorio/Programación/Pruebas Campus/PracticeWebApi/ApiIncidencias/bin/Debug/net7.0/itext.forms.dll
+C:/Users/roola/OneDrive/Escritorio/Programación/Pruebas Campus/PracticeWebApi/ApiIncidencias/bin/Debug/net7.0/itext.io.dll
+C:/Users/roola/OneDrive/Escritorio/Programación/Pruebas Campus/PracticeWebApi/ApiIncidencias/bin/Debug/net7.0/itext.kernel.dll
+C:/Users/roola/OneDrive/Escritorio/Programación/Pruebas Campus/PracticeWebApi/ApiIncidencias/bin/Debug/net7.0/itext.layout.dll
+C:/Users/roola/OneDrive/Escritorio/Programación/Pruebas Campus/PracticeWebApi/ApiIncidencias/bin/Debug/net7.0/itext.pdfa.dll
+C:/Users/roola/OneDrive/Escritorio/Programación/Pruebas Campus/PracticeWebApi/ApiIncidencias/bin/Debug/net7.0/itext.sign.dll
+C:/Users/roola/OneDrive/Escritorio/Programación/Pruebas Campus/PracticeWebApi/ApiIncidencias/bin/Debug/net7.0/itext.styledxmlparser.dll
+C:/Users/roola/OneDrive/Escritorio/Programación/Pruebas Campus/PracticeWebApi/ApiIncidencias/bin/Debug/net7.0/itext.svg.dll
+C:/Users/roola/OneDrive/Escritorio/Programación/Pruebas Campus/PracticeWebApi/ApiIncidencias/bin/Debug/net7.0/itext.commons.dll
+C:/Users/roola/OneDrive/Escritorio/Programación/Pruebas Campus/PracticeWebApi/ApiIncidencias/bin/Debug/net7.0/itext.html2pdf.dll
+C:/Users/roola/OneDrive/Escritorio/Programación/Pruebas Campus/PracticeWebApi/ApiIncidencias/bin/Debug/net7.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:/Users/roola/OneDrive/Escritorio/Programación/Pruebas Campus/PracticeWebApi/ApiIncidencias/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
+C:/Users/roola/OneDrive/Escritorio/Programación/Pruebas Campus/PracticeWebApi/ApiIncidencias/bin/Debug/net7.0/Microsoft.DotNet.PlatformAbstractions.dll
+C:/Users/roola/OneDrive/Escritorio/Programación/Pruebas Campus/PracticeWebApi/ApiIncidencias/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+C:/Users/roola/OneDrive/Escritorio/Programación/Pruebas Campus/PracticeWebApi/ApiIncidencias/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/roola/OneDrive/Escritorio/Programación/Pruebas Campus/PracticeWebApi/ApiIncidencias/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Design.dll
+C:/Users/roola/OneDrive/Escritorio/Programación/Pruebas Campus/PracticeWebApi/ApiIncidencias/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/roola/OneDrive/Escritorio/Programación/Pruebas Campus/PracticeWebApi/ApiIncidencias/bin/Debug/net7.0/Microsoft.Extensions.DependencyModel.dll
+C:/Users/roola/OneDrive/Escritorio/Programación/Pruebas Campus/PracticeWebApi/ApiIncidencias/bin/Debug/net7.0/Microsoft.IdentityModel.JsonWebTokens.dll
+C:/Users/roola/OneDrive/Escritorio/Programación/Pruebas Campus/PracticeWebApi/ApiIncidencias/bin/Debug/net7.0/Microsoft.IdentityModel.Logging.dll
+C:/Users/roola/OneDrive/Escritorio/Programación/Pruebas Campus/PracticeWebApi/ApiIncidencias/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.dll
+C:/Users/roola/OneDrive/Escritorio/Programación/Pruebas Campus/PracticeWebApi/ApiIncidencias/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:/Users/roola/OneDrive/Escritorio/Programación/Pruebas Campus/PracticeWebApi/ApiIncidencias/bin/Debug/net7.0/Microsoft.IdentityModel.Tokens.dll
+C:/Users/roola/OneDrive/Escritorio/Programación/Pruebas Campus/PracticeWebApi/ApiIncidencias/bin/Debug/net7.0/Microsoft.OpenApi.dll
+C:/Users/roola/OneDrive/Escritorio/Programación/Pruebas Campus/PracticeWebApi/ApiIncidencias/bin/Debug/net7.0/Mono.TextTemplating.dll
+C:/Users/roola/OneDrive/Escritorio/Programación/Pruebas Campus/PracticeWebApi/ApiIncidencias/bin/Debug/net7.0/MySqlConnector.dll
+C:/Users/roola/OneDrive/Escritorio/Programación/Pruebas Campus/PracticeWebApi/ApiIncidencias/bin/Debug/net7.0/Newtonsoft.Json.dll
+C:/Users/roola/OneDrive/Escritorio/Programación/Pruebas Campus/PracticeWebApi/ApiIncidencias/bin/Debug/net7.0/Pomelo.EntityFrameworkCore.MySql.dll
+C:/Users/roola/OneDrive/Escritorio/Programación/Pruebas Campus/PracticeWebApi/ApiIncidencias/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/Users/roola/OneDrive/Escritorio/Programación/Pruebas Campus/PracticeWebApi/ApiIncidencias/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/Users/roola/OneDrive/Escritorio/Programación/Pruebas Campus/PracticeWebApi/ApiIncidencias/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/Users/roola/OneDrive/Escritorio/Programación/Pruebas Campus/PracticeWebApi/ApiIncidencias/bin/Debug/net7.0/System.CodeDom.dll
+C:/Users/roola/OneDrive/Escritorio/Programación/Pruebas Campus/PracticeWebApi/ApiIncidencias/bin/Debug/net7.0/System.IdentityModel.Tokens.Jwt.dll
+C:/Users/roola/OneDrive/Escritorio/Programación/Pruebas Campus/PracticeWebApi/ApiIncidencias/bin/Debug/net7.0/Aplicacion.dll
+C:/Users/roola/OneDrive/Escritorio/Programación/Pruebas Campus/PracticeWebApi/ApiIncidencias/bin/Debug/net7.0/Dominio.dll
+C:/Users/roola/OneDrive/Escritorio/Programación/Pruebas Campus/PracticeWebApi/ApiIncidencias/bin/Debug/net7.0/Persistencia.dll
+C:/Users/roola/OneDrive/Escritorio/Programación/Pruebas Campus/PracticeWebApi/ApiIncidencias/bin/Debug/net7.0/Aplicacion.pdb
+C:/Users/roola/OneDrive/Escritorio/Programación/Pruebas Campus/PracticeWebApi/ApiIncidencias/bin/Debug/net7.0/Dominio.pdb
+C:/Users/roola/OneDrive/Escritorio/Programación/Pruebas Campus/PracticeWebApi/ApiIncidencias/bin/Debug/net7.0/Persistencia.pdb
+C:/Users/roola/OneDrive/Escritorio/Programación/Pruebas Campus/PracticeWebApi/ApiIncidencias/obj/Debug/net7.0/ApiIncidencias.csproj.AssemblyReference.cache
+C:/Users/roola/OneDrive/Escritorio/Programación/Pruebas Campus/PracticeWebApi/ApiIncidencias/obj/Debug/net7.0/ApiIncidencias.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/roola/OneDrive/Escritorio/Programación/Pruebas Campus/PracticeWebApi/ApiIncidencias/obj/Debug/net7.0/ApiIncidencias.AssemblyInfoInputs.cache
+C:/Users/roola/OneDrive/Escritorio/Programación/Pruebas Campus/PracticeWebApi/ApiIncidencias/obj/Debug/net7.0/ApiIncidencias.AssemblyInfo.cs
+C:/Users/roola/OneDrive/Escritorio/Programación/Pruebas Campus/PracticeWebApi/ApiIncidencias/obj/Debug/net7.0/ApiIncidencias.csproj.CoreCompileInputs.cache
+C:/Users/roola/OneDrive/Escritorio/Programación/Pruebas Campus/PracticeWebApi/ApiIncidencias/obj/Debug/net7.0/ApiIncidencias.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/roola/OneDrive/Escritorio/Programación/Pruebas Campus/PracticeWebApi/ApiIncidencias/obj/Debug/net7.0/ApiIncidencias.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/roola/OneDrive/Escritorio/Programación/Pruebas Campus/PracticeWebApi/ApiIncidencias/obj/Debug/net7.0/staticwebassets/msbuild.ApiIncidencias.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Users/roola/OneDrive/Escritorio/Programación/Pruebas Campus/PracticeWebApi/ApiIncidencias/obj/Debug/net7.0/staticwebassets/msbuild.build.ApiIncidencias.props
+C:/Users/roola/OneDrive/Escritorio/Programación/Pruebas Campus/PracticeWebApi/ApiIncidencias/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.ApiIncidencias.props
+C:/Users/roola/OneDrive/Escritorio/Programación/Pruebas Campus/PracticeWebApi/ApiIncidencias/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.ApiIncidencias.props
+C:/Users/roola/OneDrive/Escritorio/Programación/Pruebas Campus/PracticeWebApi/ApiIncidencias/obj/Debug/net7.0/staticwebassets.pack.json
+C:/Users/roola/OneDrive/Escritorio/Programación/Pruebas Campus/PracticeWebApi/ApiIncidencias/obj/Debug/net7.0/staticwebassets.build.json
+C:/Users/roola/OneDrive/Escritorio/Programación/Pruebas Campus/PracticeWebApi/ApiIncidencias/obj/Debug/net7.0/staticwebassets.development.json
+C:/Users/roola/OneDrive/Escritorio/Programación/Pruebas Campus/PracticeWebApi/ApiIncidencias/obj/Debug/net7.0/scopedcss/bundle/ApiIncidencias.styles.css
+C:/Users/roola/OneDrive/Escritorio/Programación/Pruebas Campus/PracticeWebApi/ApiIncidencias/obj/Debug/net7.0/ApiIncidencias.csproj.CopyComplete
+C:/Users/roola/OneDrive/Escritorio/Programación/Pruebas Campus/PracticeWebApi/ApiIncidencias/obj/Debug/net7.0/ApiIncidencias.dll
+C:/Users/roola/OneDrive/Escritorio/Programación/Pruebas Campus/PracticeWebApi/ApiIncidencias/obj/Debug/net7.0/refint/ApiIncidencias.dll
+C:/Users/roola/OneDrive/Escritorio/Programación/Pruebas Campus/PracticeWebApi/ApiIncidencias/obj/Debug/net7.0/ApiIncidencias.pdb
+C:/Users/roola/OneDrive/Escritorio/Programación/Pruebas Campus/PracticeWebApi/ApiIncidencias/obj/Debug/net7.0/ApiIncidencias.genruntimeconfig.cache
+C:/Users/roola/OneDrive/Escritorio/Programación/Pruebas Campus/PracticeWebApi/ApiIncidencias/obj/Debug/net7.0/ref/ApiIncidencias.dll
+/home/apolM01-051/Desktop/PracticeWebApi/ApiIncidencias/bin/Debug/net7.0/appsettings.Development.json
+/home/apolM01-051/Desktop/PracticeWebApi/ApiIncidencias/bin/Debug/net7.0/appsettings.json
+/home/apolM01-051/Desktop/PracticeWebApi/ApiIncidencias/bin/Debug/net7.0/ApiIncidencias
+/home/apolM01-051/Desktop/PracticeWebApi/ApiIncidencias/bin/Debug/net7.0/ApiIncidencias.deps.json
+/home/apolM01-051/Desktop/PracticeWebApi/ApiIncidencias/bin/Debug/net7.0/ApiIncidencias.runtimeconfig.json
+/home/apolM01-051/Desktop/PracticeWebApi/ApiIncidencias/bin/Debug/net7.0/ApiIncidencias.dll
+/home/apolM01-051/Desktop/PracticeWebApi/ApiIncidencias/bin/Debug/net7.0/ApiIncidencias.pdb
+/home/apolM01-051/Desktop/PracticeWebApi/ApiIncidencias/bin/Debug/net7.0/FluentValidation.dll
+/home/apolM01-051/Desktop/PracticeWebApi/ApiIncidencias/bin/Debug/net7.0/FluentValidation.AspNetCore.dll
+/home/apolM01-051/Desktop/PracticeWebApi/ApiIncidencias/bin/Debug/net7.0/FluentValidation.DependencyInjectionExtensions.dll
+/home/apolM01-051/Desktop/PracticeWebApi/ApiIncidencias/bin/Debug/net7.0/Humanizer.dll
+/home/apolM01-051/Desktop/PracticeWebApi/ApiIncidencias/bin/Debug/net7.0/itext.barcodes.dll
+/home/apolM01-051/Desktop/PracticeWebApi/ApiIncidencias/bin/Debug/net7.0/itext.bouncy-castle-connector.dll
+/home/apolM01-051/Desktop/PracticeWebApi/ApiIncidencias/bin/Debug/net7.0/itext.forms.dll
+/home/apolM01-051/Desktop/PracticeWebApi/ApiIncidencias/bin/Debug/net7.0/itext.io.dll
+/home/apolM01-051/Desktop/PracticeWebApi/ApiIncidencias/bin/Debug/net7.0/itext.kernel.dll
+/home/apolM01-051/Desktop/PracticeWebApi/ApiIncidencias/bin/Debug/net7.0/itext.layout.dll
+/home/apolM01-051/Desktop/PracticeWebApi/ApiIncidencias/bin/Debug/net7.0/itext.pdfa.dll
+/home/apolM01-051/Desktop/PracticeWebApi/ApiIncidencias/bin/Debug/net7.0/itext.sign.dll
+/home/apolM01-051/Desktop/PracticeWebApi/ApiIncidencias/bin/Debug/net7.0/itext.styledxmlparser.dll
+/home/apolM01-051/Desktop/PracticeWebApi/ApiIncidencias/bin/Debug/net7.0/itext.svg.dll
+/home/apolM01-051/Desktop/PracticeWebApi/ApiIncidencias/bin/Debug/net7.0/itext.commons.dll
+/home/apolM01-051/Desktop/PracticeWebApi/ApiIncidencias/bin/Debug/net7.0/itext.html2pdf.dll
+/home/apolM01-051/Desktop/PracticeWebApi/ApiIncidencias/bin/Debug/net7.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/home/apolM01-051/Desktop/PracticeWebApi/ApiIncidencias/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
+/home/apolM01-051/Desktop/PracticeWebApi/ApiIncidencias/bin/Debug/net7.0/Microsoft.DotNet.PlatformAbstractions.dll
+/home/apolM01-051/Desktop/PracticeWebApi/ApiIncidencias/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+/home/apolM01-051/Desktop/PracticeWebApi/ApiIncidencias/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/home/apolM01-051/Desktop/PracticeWebApi/ApiIncidencias/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Design.dll
+/home/apolM01-051/Desktop/PracticeWebApi/ApiIncidencias/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+/home/apolM01-051/Desktop/PracticeWebApi/ApiIncidencias/bin/Debug/net7.0/Microsoft.Extensions.DependencyModel.dll
+/home/apolM01-051/Desktop/PracticeWebApi/ApiIncidencias/bin/Debug/net7.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/home/apolM01-051/Desktop/PracticeWebApi/ApiIncidencias/bin/Debug/net7.0/Microsoft.IdentityModel.Logging.dll
+/home/apolM01-051/Desktop/PracticeWebApi/ApiIncidencias/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.dll
+/home/apolM01-051/Desktop/PracticeWebApi/ApiIncidencias/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/home/apolM01-051/Desktop/PracticeWebApi/ApiIncidencias/bin/Debug/net7.0/Microsoft.IdentityModel.Tokens.dll
+/home/apolM01-051/Desktop/PracticeWebApi/ApiIncidencias/bin/Debug/net7.0/Microsoft.OpenApi.dll
+/home/apolM01-051/Desktop/PracticeWebApi/ApiIncidencias/bin/Debug/net7.0/Mono.TextTemplating.dll
+/home/apolM01-051/Desktop/PracticeWebApi/ApiIncidencias/bin/Debug/net7.0/MySqlConnector.dll
+/home/apolM01-051/Desktop/PracticeWebApi/ApiIncidencias/bin/Debug/net7.0/Newtonsoft.Json.dll
+/home/apolM01-051/Desktop/PracticeWebApi/ApiIncidencias/bin/Debug/net7.0/Pomelo.EntityFrameworkCore.MySql.dll
+/home/apolM01-051/Desktop/PracticeWebApi/ApiIncidencias/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+/home/apolM01-051/Desktop/PracticeWebApi/ApiIncidencias/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/home/apolM01-051/Desktop/PracticeWebApi/ApiIncidencias/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/home/apolM01-051/Desktop/PracticeWebApi/ApiIncidencias/bin/Debug/net7.0/System.CodeDom.dll
+/home/apolM01-051/Desktop/PracticeWebApi/ApiIncidencias/bin/Debug/net7.0/System.IdentityModel.Tokens.Jwt.dll
+/home/apolM01-051/Desktop/PracticeWebApi/ApiIncidencias/bin/Debug/net7.0/Aplicacion.dll
+/home/apolM01-051/Desktop/PracticeWebApi/ApiIncidencias/bin/Debug/net7.0/Dominio.dll
+/home/apolM01-051/Desktop/PracticeWebApi/ApiIncidencias/bin/Debug/net7.0/Persistencia.dll
+/home/apolM01-051/Desktop/PracticeWebApi/ApiIncidencias/bin/Debug/net7.0/Dominio.pdb
+/home/apolM01-051/Desktop/PracticeWebApi/ApiIncidencias/bin/Debug/net7.0/Persistencia.pdb
+/home/apolM01-051/Desktop/PracticeWebApi/ApiIncidencias/bin/Debug/net7.0/Aplicacion.pdb
+/home/apolM01-051/Desktop/PracticeWebApi/ApiIncidencias/obj/Debug/net7.0/ApiIncidencias.csproj.AssemblyReference.cache
+/home/apolM01-051/Desktop/PracticeWebApi/ApiIncidencias/obj/Debug/net7.0/ApiIncidencias.GeneratedMSBuildEditorConfig.editorconfig
+/home/apolM01-051/Desktop/PracticeWebApi/ApiIncidencias/obj/Debug/net7.0/ApiIncidencias.AssemblyInfoInputs.cache
+/home/apolM01-051/Desktop/PracticeWebApi/ApiIncidencias/obj/Debug/net7.0/ApiIncidencias.AssemblyInfo.cs
+/home/apolM01-051/Desktop/PracticeWebApi/ApiIncidencias/obj/Debug/net7.0/ApiIncidencias.csproj.CoreCompileInputs.cache
+/home/apolM01-051/Desktop/PracticeWebApi/ApiIncidencias/obj/Debug/net7.0/ApiIncidencias.MvcApplicationPartsAssemblyInfo.cs
+/home/apolM01-051/Desktop/PracticeWebApi/ApiIncidencias/obj/Debug/net7.0/ApiIncidencias.MvcApplicationPartsAssemblyInfo.cache
+/home/apolM01-051/Desktop/PracticeWebApi/ApiIncidencias/obj/Debug/net7.0/staticwebassets/msbuild.ApiIncidencias.Microsoft.AspNetCore.StaticWebAssets.props
+/home/apolM01-051/Desktop/PracticeWebApi/ApiIncidencias/obj/Debug/net7.0/staticwebassets/msbuild.build.ApiIncidencias.props
+/home/apolM01-051/Desktop/PracticeWebApi/ApiIncidencias/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.ApiIncidencias.props
+/home/apolM01-051/Desktop/PracticeWebApi/ApiIncidencias/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.ApiIncidencias.props
+/home/apolM01-051/Desktop/PracticeWebApi/ApiIncidencias/obj/Debug/net7.0/staticwebassets.pack.json
+/home/apolM01-051/Desktop/PracticeWebApi/ApiIncidencias/obj/Debug/net7.0/staticwebassets.build.json
+/home/apolM01-051/Desktop/PracticeWebApi/ApiIncidencias/obj/Debug/net7.0/staticwebassets.development.json
+/home/apolM01-051/Desktop/PracticeWebApi/ApiIncidencias/obj/Debug/net7.0/scopedcss/bundle/ApiIncidencias.styles.css
+/home/apolM01-051/Desktop/PracticeWebApi/ApiIncidencias/obj/Debug/net7.0/ApiIncidencias.csproj.CopyComplete
+/home/apolM01-051/Desktop/PracticeWebApi/ApiIncidencias/obj/Debug/net7.0/ApiIncidencias.dll
+/home/apolM01-051/Desktop/PracticeWebApi/ApiIncidencias/obj/Debug/net7.0/refint/ApiIncidencias.dll
+/home/apolM01-051/Desktop/PracticeWebApi/ApiIncidencias/obj/Debug/net7.0/ApiIncidencias.pdb
+/home/apolM01-051/Desktop/PracticeWebApi/ApiIncidencias/obj/Debug/net7.0/ApiIncidencias.genruntimeconfig.cache
+/home/apolM01-051/Desktop/PracticeWebApi/ApiIncidencias/obj/Debug/net7.0/ref/ApiIncidencias.dll

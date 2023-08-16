@@ -10,8 +10,8 @@ namespace Persistencia.Data.Configuration
         {
             builder.ToTable("direccion");
 
-            builder.HasKey(e => e.IdCod);
-            builder.Property(e => e.IdCod);
+            builder.HasKey(e => e.IdDireccion);
+            builder.Property(e => e.IdDireccion);
 
             builder.Property(p => p.TipoVia)
             .IsRequired()
@@ -43,7 +43,7 @@ namespace Persistencia.Data.Configuration
 
             builder.HasOne(p => p.Persona)
             .WithMany(p => p.Direcciones)
-            .HasForeignKey(p => p.IdPersona);
+            .HasForeignKey(p => p.IdPersonaFk);
         }
     }
 }

@@ -1,17 +1,34 @@
-C:\Users\roola\OneDrive\Escritorio\Programación\Pruebas Campus\PracticeWebApi\Aplicacion\bin\Debug\net7.0\Aplicacion.deps.json
-C:\Users\roola\OneDrive\Escritorio\Programación\Pruebas Campus\PracticeWebApi\Aplicacion\bin\Debug\net7.0\Aplicacion.dll
-C:\Users\roola\OneDrive\Escritorio\Programación\Pruebas Campus\PracticeWebApi\Aplicacion\bin\Debug\net7.0\Aplicacion.pdb
-C:\Users\roola\OneDrive\Escritorio\Programación\Pruebas Campus\PracticeWebApi\Aplicacion\bin\Debug\net7.0\Dominio.dll
-C:\Users\roola\OneDrive\Escritorio\Programación\Pruebas Campus\PracticeWebApi\Aplicacion\bin\Debug\net7.0\Persistencia.dll
-C:\Users\roola\OneDrive\Escritorio\Programación\Pruebas Campus\PracticeWebApi\Aplicacion\bin\Debug\net7.0\Dominio.pdb
-C:\Users\roola\OneDrive\Escritorio\Programación\Pruebas Campus\PracticeWebApi\Aplicacion\bin\Debug\net7.0\Persistencia.pdb
-C:\Users\roola\OneDrive\Escritorio\Programación\Pruebas Campus\PracticeWebApi\Aplicacion\obj\Debug\net7.0\Aplicacion.csproj.AssemblyReference.cache
-C:\Users\roola\OneDrive\Escritorio\Programación\Pruebas Campus\PracticeWebApi\Aplicacion\obj\Debug\net7.0\Aplicacion.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\roola\OneDrive\Escritorio\Programación\Pruebas Campus\PracticeWebApi\Aplicacion\obj\Debug\net7.0\Aplicacion.AssemblyInfoInputs.cache
-C:\Users\roola\OneDrive\Escritorio\Programación\Pruebas Campus\PracticeWebApi\Aplicacion\obj\Debug\net7.0\Aplicacion.AssemblyInfo.cs
-C:\Users\roola\OneDrive\Escritorio\Programación\Pruebas Campus\PracticeWebApi\Aplicacion\obj\Debug\net7.0\Aplicacion.csproj.CoreCompileInputs.cache
-C:\Users\roola\OneDrive\Escritorio\Programación\Pruebas Campus\PracticeWebApi\Aplicacion\obj\Debug\net7.0\Aplicacion.csproj.CopyComplete
-C:\Users\roola\OneDrive\Escritorio\Programación\Pruebas Campus\PracticeWebApi\Aplicacion\obj\Debug\net7.0\Aplicacion.dll
-C:\Users\roola\OneDrive\Escritorio\Programación\Pruebas Campus\PracticeWebApi\Aplicacion\obj\Debug\net7.0\refint\Aplicacion.dll
-C:\Users\roola\OneDrive\Escritorio\Programación\Pruebas Campus\PracticeWebApi\Aplicacion\obj\Debug\net7.0\Aplicacion.pdb
-C:\Users\roola\OneDrive\Escritorio\Programación\Pruebas Campus\PracticeWebApi\Aplicacion\obj\Debug\net7.0\ref\Aplicacion.dll
+C:/Users/roola/OneDrive/Escritorio/Programación/Pruebas Campus/PracticeWebApi/Aplicacion/bin/Debug/net7.0/Aplicacion.deps.json
+C:/Users/roola/OneDrive/Escritorio/Programación/Pruebas Campus/PracticeWebApi/Aplicacion/bin/Debug/net7.0/Aplicacion.dll
+C:/Users/roola/OneDrive/Escritorio/Programación/Pruebas Campus/PracticeWebApi/Aplicacion/bin/Debug/net7.0/Aplicacion.pdb
+C:/Users/roola/OneDrive/Escritorio/Programación/Pruebas Campus/PracticeWebApi/Aplicacion/bin/Debug/net7.0/Dominio.dll
+C:/Users/roola/OneDrive/Escritorio/Programación/Pruebas Campus/PracticeWebApi/Aplicacion/bin/Debug/net7.0/Persistencia.dll
+C:/Users/roola/OneDrive/Escritorio/Programación/Pruebas Campus/PracticeWebApi/Aplicacion/bin/Debug/net7.0/Dominio.pdb
+C:/Users/roola/OneDrive/Escritorio/Programación/Pruebas Campus/PracticeWebApi/Aplicacion/bin/Debug/net7.0/Persistencia.pdb
+C:/Users/roola/OneDrive/Escritorio/Programación/Pruebas Campus/PracticeWebApi/Aplicacion/obj/Debug/net7.0/Aplicacion.csproj.AssemblyReference.cache
+C:/Users/roola/OneDrive/Escritorio/Programación/Pruebas Campus/PracticeWebApi/Aplicacion/obj/Debug/net7.0/Aplicacion.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/roola/OneDrive/Escritorio/Programación/Pruebas Campus/PracticeWebApi/Aplicacion/obj/Debug/net7.0/Aplicacion.AssemblyInfoInputs.cache
+C:/Users/roola/OneDrive/Escritorio/Programación/Pruebas Campus/PracticeWebApi/Aplicacion/obj/Debug/net7.0/Aplicacion.AssemblyInfo.cs
+C:/Users/roola/OneDrive/Escritorio/Programación/Pruebas Campus/PracticeWebApi/Aplicacion/obj/Debug/net7.0/Aplicacion.csproj.CoreCompileInputs.cache
+C:/Users/roola/OneDrive/Escritorio/Programación/Pruebas Campus/PracticeWebApi/Aplicacion/obj/Debug/net7.0/Aplicacion.csproj.CopyComplete
+C:/Users/roola/OneDrive/Escritorio/Programación/Pruebas Campus/PracticeWebApi/Aplicacion/obj/Debug/net7.0/Aplicacion.dll
+C:/Users/roola/OneDrive/Escritorio/Programación/Pruebas Campus/PracticeWebApi/Aplicacion/obj/Debug/net7.0/refint/Aplicacion.dll
+C:/Users/roola/OneDrive/Escritorio/Programación/Pruebas Campus/PracticeWebApi/Aplicacion/obj/Debug/net7.0/Aplicacion.pdb
+C:/Users/roola/OneDrive/Escritorio/Programación/Pruebas Campus/PracticeWebApi/Aplicacion/obj/Debug/net7.0/ref/Aplicacion.dll
+/home/apolM01-051/Desktop/PracticeWebApi/Aplicacion/bin/Debug/net7.0/Aplicacion.deps.json
+/home/apolM01-051/Desktop/PracticeWebApi/Aplicacion/bin/Debug/net7.0/Aplicacion.dll
+/home/apolM01-051/Desktop/PracticeWebApi/Aplicacion/bin/Debug/net7.0/Aplicacion.pdb
+/home/apolM01-051/Desktop/PracticeWebApi/Aplicacion/bin/Debug/net7.0/Dominio.dll
+/home/apolM01-051/Desktop/PracticeWebApi/Aplicacion/bin/Debug/net7.0/Persistencia.dll
+/home/apolM01-051/Desktop/PracticeWebApi/Aplicacion/bin/Debug/net7.0/Dominio.pdb
+/home/apolM01-051/Desktop/PracticeWebApi/Aplicacion/bin/Debug/net7.0/Persistencia.pdb
+/home/apolM01-051/Desktop/PracticeWebApi/Aplicacion/obj/Debug/net7.0/Aplicacion.csproj.AssemblyReference.cache
+/home/apolM01-051/Desktop/PracticeWebApi/Aplicacion/obj/Debug/net7.0/Aplicacion.GeneratedMSBuildEditorConfig.editorconfig
+/home/apolM01-051/Desktop/PracticeWebApi/Aplicacion/obj/Debug/net7.0/Aplicacion.AssemblyInfoInputs.cache
+/home/apolM01-051/Desktop/PracticeWebApi/Aplicacion/obj/Debug/net7.0/Aplicacion.AssemblyInfo.cs
+/home/apolM01-051/Desktop/PracticeWebApi/Aplicacion/obj/Debug/net7.0/Aplicacion.csproj.CoreCompileInputs.cache
+/home/apolM01-051/Desktop/PracticeWebApi/Aplicacion/obj/Debug/net7.0/Aplicacion.csproj.CopyComplete
+/home/apolM01-051/Desktop/PracticeWebApi/Aplicacion/obj/Debug/net7.0/Aplicacion.dll
+/home/apolM01-051/Desktop/PracticeWebApi/Aplicacion/obj/Debug/net7.0/refint/Aplicacion.dll
+/home/apolM01-051/Desktop/PracticeWebApi/Aplicacion/obj/Debug/net7.0/Aplicacion.pdb
+/home/apolM01-051/Desktop/PracticeWebApi/Aplicacion/obj/Debug/net7.0/ref/Aplicacion.dll
