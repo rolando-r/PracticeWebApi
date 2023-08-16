@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/home/apolM01-051/Desktop/PracticeWebApi/Aplicacion/Aplicacion.csproj": {}
+    "C:\\Users\\roola\\OneDrive\\Escritorio\\Programación\\Pruebas Campus\\PracticeWebApi\\Aplicacion\\Aplicacion.csproj": {}
   },
   "projects": {
-    "/home/apolM01-051/Desktop/PracticeWebApi/Aplicacion/Aplicacion.csproj": {
+    "C:\\Users\\roola\\OneDrive\\Escritorio\\Programación\\Pruebas Campus\\PracticeWebApi\\Aplicacion\\Aplicacion.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/apolM01-051/Desktop/PracticeWebApi/Aplicacion/Aplicacion.csproj",
+        "projectUniqueName": "C:\\Users\\roola\\OneDrive\\Escritorio\\Programación\\Pruebas Campus\\PracticeWebApi\\Aplicacion\\Aplicacion.csproj",
         "projectName": "Aplicacion",
-        "projectPath": "/home/apolM01-051/Desktop/PracticeWebApi/Aplicacion/Aplicacion.csproj",
-        "packagesPath": "/home/apolM01-051/.nuget/packages/",
-        "outputPath": "/home/apolM01-051/Desktop/PracticeWebApi/Aplicacion/obj/",
+        "projectPath": "C:\\Users\\roola\\OneDrive\\Escritorio\\Programación\\Pruebas Campus\\PracticeWebApi\\Aplicacion\\Aplicacion.csproj",
+        "packagesPath": "C:\\Users\\roola\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\roola\\OneDrive\\Escritorio\\Programación\\Pruebas Campus\\PracticeWebApi\\Aplicacion\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/apolM01-051/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\roola\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -26,11 +26,11 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "/home/apolM01-051/Desktop/PracticeWebApi/Dominio/Dominio.csproj": {
-                "projectPath": "/home/apolM01-051/Desktop/PracticeWebApi/Dominio/Dominio.csproj"
+              "C:\\Users\\roola\\OneDrive\\Escritorio\\Programación\\Pruebas Campus\\PracticeWebApi\\Dominio\\Dominio.csproj": {
+                "projectPath": "C:\\Users\\roola\\OneDrive\\Escritorio\\Programación\\Pruebas Campus\\PracticeWebApi\\Dominio\\Dominio.csproj"
               },
-              "/home/apolM01-051/Desktop/PracticeWebApi/Persistencia/Persistencia.csproj": {
-                "projectPath": "/home/apolM01-051/Desktop/PracticeWebApi/Persistencia/Persistencia.csproj"
+              "C:\\Users\\roola\\OneDrive\\Escritorio\\Programación\\Pruebas Campus\\PracticeWebApi\\Persistencia\\Persistencia.csproj": {
+                "projectPath": "C:\\Users\\roola\\OneDrive\\Escritorio\\Programación\\Pruebas Campus\\PracticeWebApi\\Persistencia\\Persistencia.csproj"
               }
             }
           }
@@ -44,12 +44,6 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
-          "dependencies": {
-            "Microsoft.AspNetCore.Authentication.JwtBearer": {
-              "target": "Package",
-              "version": "[7.0.10, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",
@@ -66,21 +60,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/7.0.110/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "/home/apolM01-051/Desktop/PracticeWebApi/Dominio/Dominio.csproj": {
+    "C:\\Users\\roola\\OneDrive\\Escritorio\\Programación\\Pruebas Campus\\PracticeWebApi\\Dominio\\Dominio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/apolM01-051/Desktop/PracticeWebApi/Dominio/Dominio.csproj",
+        "projectUniqueName": "C:\\Users\\roola\\OneDrive\\Escritorio\\Programación\\Pruebas Campus\\PracticeWebApi\\Dominio\\Dominio.csproj",
         "projectName": "Dominio",
-        "projectPath": "/home/apolM01-051/Desktop/PracticeWebApi/Dominio/Dominio.csproj",
-        "packagesPath": "/home/apolM01-051/.nuget/packages/",
-        "outputPath": "/home/apolM01-051/Desktop/PracticeWebApi/Dominio/obj/",
+        "projectPath": "C:\\Users\\roola\\OneDrive\\Escritorio\\Programación\\Pruebas Campus\\PracticeWebApi\\Dominio\\Dominio.csproj",
+        "packagesPath": "C:\\Users\\roola\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\roola\\OneDrive\\Escritorio\\Programación\\Pruebas Campus\\PracticeWebApi\\Dominio\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/apolM01-051/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\roola\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -133,21 +127,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/7.0.110/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "/home/apolM01-051/Desktop/PracticeWebApi/Persistencia/Persistencia.csproj": {
+    "C:\\Users\\roola\\OneDrive\\Escritorio\\Programación\\Pruebas Campus\\PracticeWebApi\\Persistencia\\Persistencia.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/apolM01-051/Desktop/PracticeWebApi/Persistencia/Persistencia.csproj",
+        "projectUniqueName": "C:\\Users\\roola\\OneDrive\\Escritorio\\Programación\\Pruebas Campus\\PracticeWebApi\\Persistencia\\Persistencia.csproj",
         "projectName": "Persistencia",
-        "projectPath": "/home/apolM01-051/Desktop/PracticeWebApi/Persistencia/Persistencia.csproj",
-        "packagesPath": "/home/apolM01-051/.nuget/packages/",
-        "outputPath": "/home/apolM01-051/Desktop/PracticeWebApi/Persistencia/obj/",
+        "projectPath": "C:\\Users\\roola\\OneDrive\\Escritorio\\Programación\\Pruebas Campus\\PracticeWebApi\\Persistencia\\Persistencia.csproj",
+        "packagesPath": "C:\\Users\\roola\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\roola\\OneDrive\\Escritorio\\Programación\\Pruebas Campus\\PracticeWebApi\\Persistencia\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/apolM01-051/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\roola\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -159,8 +153,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "/home/apolM01-051/Desktop/PracticeWebApi/Dominio/Dominio.csproj": {
-                "projectPath": "/home/apolM01-051/Desktop/PracticeWebApi/Dominio/Dominio.csproj"
+              "C:\\Users\\roola\\OneDrive\\Escritorio\\Programación\\Pruebas Campus\\PracticeWebApi\\Dominio\\Dominio.csproj": {
+                "projectPath": "C:\\Users\\roola\\OneDrive\\Escritorio\\Programación\\Pruebas Campus\\PracticeWebApi\\Dominio\\Dominio.csproj"
               }
             }
           }
@@ -200,7 +194,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/7.0.110/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
         }
       }
     }
