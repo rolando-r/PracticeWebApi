@@ -1,12 +1,11 @@
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
+using Microsoft.EntityFrameworkCore;
 
 namespace Persistencia
 {
-    public class PracticeWebApiContext
+    public class PracticeWebApiContext : DbContext
     {
-        
+        public PracticeWebApiContext(DbContextOptions<PracticeWebApiContext> options) : base(options)
+        {
+        }
     }
 }
