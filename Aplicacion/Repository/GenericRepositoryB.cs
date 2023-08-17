@@ -1,9 +1,11 @@
+
+
 namespace Aplicacion.Repository;
-public class GenericRepository<T> : IGenericRepository<T> where T : BaseEntityA
+public class GenericRepositoryB<T> : IGenericRepositoryB<T> where T : BaseEntityB
 {
     private readonly PracticeWebApiContext _context;
 
-    public GenericRepository(PracticeWebApiContext context)
+    public GenericRepositoryB(PracticeWebApiContext context)
     {
         _context = context;
     }
@@ -33,7 +35,7 @@ public class GenericRepository<T> : IGenericRepository<T> where T : BaseEntityA
         return await _context.Set<T>().FindAsync(id);
     }
 
-    public Task<T> GetByIdAsync(string id)
+    public Task<T> GetByIdAsync(int id)
     {
         throw new NotImplementedException();
     }

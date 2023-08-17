@@ -1,10 +1,6 @@
-using System.ComponentModel.DataAnnotations;
-
 namespace Dominio;
-public class Persona
+public class Persona : BaseEntityA
 {
-    [Key]
-    public string ? IdPersona { get; set; }
     public string ? NombrePersona { get; set; }
     public string ? Apellido { get; set; }
     public string ? IdGeneroFk { get; set; }

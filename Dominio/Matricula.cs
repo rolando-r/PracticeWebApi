@@ -1,10 +1,6 @@
-using System.ComponentModel.DataAnnotations;
-
 namespace Dominio;
-public class Matricula
+public class Matricula : BaseEntityB
 {
-    [Key]
-    public int IdMatricula { get; set; }
     public string ? IdPersonaFk { get; set; }
     public Persona ? Persona { get; set; }
     public string ? IdSalonFk { get; set; }

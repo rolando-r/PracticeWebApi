@@ -10,8 +10,8 @@ namespace Persistencia.Data.Configuration
         {
             builder.ToTable("genero");
 
-            builder.HasKey(e => e.IdGenero);
-            builder.Property(e => e.IdGenero);
+            builder.HasKey(e => e.Id);
+            builder.Property(e => e.Id);
 
             builder.Property(p => p.DescripcionGenero)
             .IsRequired()

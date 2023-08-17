@@ -1,10 +1,6 @@
-using System.ComponentModel.DataAnnotations;
-
 namespace Dominio;
-public class Direccion
+public class Direccion : BaseEntityA
 {
-    [Key]
-    public string ? IdDireccion { get; set; }
     public string ? TipoVia { get; set; }
     public int Numero { get; set; }
     public string ? Letra { get; set; }

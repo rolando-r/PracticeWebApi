@@ -1,10 +1,6 @@
-using System.ComponentModel.DataAnnotations;
-
 namespace Dominio;
-public class Departamento
+public class Departamento : BaseEntityA
 {
-    [Key]
-    public string ? IdDep { get; set; }
     public string ? NombreDep { get; set; }
     public string ? IdPaisFk { get; set; }
     public Pais ? Pais { get; set; }

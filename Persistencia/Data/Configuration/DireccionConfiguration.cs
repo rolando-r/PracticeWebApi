@@ -10,8 +10,8 @@ namespace Persistencia.Data.Configuration
         {
             builder.ToTable("direccion");
 
-            builder.HasKey(e => e.IdDireccion);
-            builder.Property(e => e.IdDireccion);
+            builder.HasKey(e => e.Id);
+            builder.Property(e => e.Id);
 
             builder.Property(p => p.TipoVia)
             .IsRequired()

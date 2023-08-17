@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\roola\\OneDrive\\Escritorio\\Programación\\Proyectos Campus\\NETCore\\PracticeWebApi\\Persistencia\\Persistencia.csproj": {}
+    "/home/apolM01-051/Desktop/PracticeWebApi/Persistencia/Persistencia.csproj": {}
   },
   "projects": {
-    "c:\\Users\\roola\\OneDrive\\Escritorio\\Programación\\Proyectos Campus\\NETCore\\PracticeWebApi\\Dominio\\Dominio.csproj": {
+    "/home/apolM01-051/Desktop/PracticeWebApi/Dominio/Dominio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\roola\\OneDrive\\Escritorio\\Programación\\Proyectos Campus\\NETCore\\PracticeWebApi\\Dominio\\Dominio.csproj",
+        "projectUniqueName": "/home/apolM01-051/Desktop/PracticeWebApi/Dominio/Dominio.csproj",
         "projectName": "Dominio",
-        "projectPath": "c:\\Users\\roola\\OneDrive\\Escritorio\\Programación\\Proyectos Campus\\NETCore\\PracticeWebApi\\Dominio\\Dominio.csproj",
-        "packagesPath": "C:\\Users\\roola\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\roola\\OneDrive\\Escritorio\\Programación\\Proyectos Campus\\NETCore\\PracticeWebApi\\Dominio\\obj\\",
+        "projectPath": "/home/apolM01-051/Desktop/PracticeWebApi/Dominio/Dominio.csproj",
+        "packagesPath": "/home/apolM01-051/.nuget/packages/",
+        "outputPath": "/home/apolM01-051/Desktop/PracticeWebApi/Dominio/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\roola\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/home/apolM01-051/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -67,21 +67,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/7.0.110/RuntimeIdentifierGraph.json"
         }
       }
     },
-    "c:\\Users\\roola\\OneDrive\\Escritorio\\Programación\\Proyectos Campus\\NETCore\\PracticeWebApi\\Persistencia\\Persistencia.csproj": {
+    "/home/apolM01-051/Desktop/PracticeWebApi/Persistencia/Persistencia.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\roola\\OneDrive\\Escritorio\\Programación\\Proyectos Campus\\NETCore\\PracticeWebApi\\Persistencia\\Persistencia.csproj",
+        "projectUniqueName": "/home/apolM01-051/Desktop/PracticeWebApi/Persistencia/Persistencia.csproj",
         "projectName": "Persistencia",
-        "projectPath": "c:\\Users\\roola\\OneDrive\\Escritorio\\Programación\\Proyectos Campus\\NETCore\\PracticeWebApi\\Persistencia\\Persistencia.csproj",
-        "packagesPath": "C:\\Users\\roola\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\roola\\OneDrive\\Escritorio\\Programación\\Proyectos Campus\\NETCore\\PracticeWebApi\\Persistencia\\obj\\",
+        "projectPath": "/home/apolM01-051/Desktop/PracticeWebApi/Persistencia/Persistencia.csproj",
+        "packagesPath": "/home/apolM01-051/.nuget/packages/",
+        "outputPath": "/home/apolM01-051/Desktop/PracticeWebApi/Persistencia/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\roola\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/home/apolM01-051/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -93,8 +93,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "c:\\Users\\roola\\OneDrive\\Escritorio\\Programación\\Proyectos Campus\\NETCore\\PracticeWebApi\\Dominio\\Dominio.csproj": {
-                "projectPath": "c:\\Users\\roola\\OneDrive\\Escritorio\\Programación\\Proyectos Campus\\NETCore\\PracticeWebApi\\Dominio\\Dominio.csproj"
+              "/home/apolM01-051/Desktop/PracticeWebApi/Dominio/Dominio.csproj": {
+                "projectPath": "/home/apolM01-051/Desktop/PracticeWebApi/Dominio/Dominio.csproj"
               }
             }
           }
@@ -134,7 +134,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/7.0.110/RuntimeIdentifierGraph.json"
         }
       }
     }
