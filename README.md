@@ -8,13 +8,13 @@ The objective of this practice project is to provide you with hands-on experienc
 
 ## 📂 Folder Structure
 
-- **Api:** Esta carpeta contiene el punto de entrada de tu Web API, controladores y configuraciones de enrutamiento.
+- **Api:** This folder contains your Web API entry point, controllers, and routing configurations.
 
-- **Aplicacion:** Aquí reside la lógica de la aplicación. Los servicios de aplicación, mapeos de DTO, validaciones y otros componentes de la capa de aplicación se encuentran en esta carpeta.
+- **Aplicacion:** This is where the application logic resides. Application services, DTO mappings, validations, and other application layer components are located in this folder.
 
-- **Persistencia:** En esta carpeta se encuentra la capa de persistencia, donde definirás tus contextos de base de datos, repositorios y configuraciones de migraciones.
+- **Persistencia:** In this folder you will find the persistence layer, where you will define your database contexts, repositories and migration configurations.
 
-- **Dominio:** Aquí se definen las entidades y reglas de negocio fundamentales para tu aplicación.
+- **Dominio:** Here you define the fundamental business entities and rules for your application.
 
 ## 🛠 Skills
 
